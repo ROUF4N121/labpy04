@@ -102,9 +102,7 @@ print("="*80)
 6. Kemudian, pengguna memasukkan nilai UAS.
 7. Program akan menghitng nilainya.
 8. Data yang terdiri dari Nama, NIM, Tugas, UTS, UAS, dan Nilai Akhir disimpan ke dalam list `students`.
-9. Program menanyakan apakah pengguna ingin menambahkan data lagi dengan pertanyaan Tambah data? (y/t):
-   -Jika pengguna memilih `y`, program kembali ke langkah input nama dan mengulangi proses.
-   -Jika pengguna memilih `t`, program keluar dari loop.
+9. Program menanyakan apakah pengguna ingin menambahkan data lagi dengan pertanyaan Tambah data? (y/t): Jika pengguna memilih `y`, program kembali ke langkah input nama dan mengulangi proses. Jika pengguna memilih `t`, program keluar dari loop.
 10. Setelah keluar dari loop, program menampilkan tabel berisi daftar data mahasiswa yang telah dimasukkan.
 11. Program selesai.
 
