@@ -17,7 +17,7 @@ Program ini dirancang untuk memungkinkan pengguna menambahkan data ke dalam sebu
 Program ini bertujuan untuk mengelola data akademik mahasiswa dengan cara menerima input dari pengguna berupa Nama, NIM, Nilai Tugas, Nilai UTS, dan Nilai UAS. Setelah input data diterima, program menghitung Nilai Akhir berdasarkan bobot yang telah ditentukan, yakni 30% untuk nilai Tugas, 35% untuk nilai UTS, dan 35% untuk nilai UAS.
 
 ### Kode Program
-Kode program dapat dilihat dibawah ini atau buka file ini [`ProgramNilai.py`](ProogramNilai.py).
+Kode program dapat dilihat dibawah ini atau buka file ini [`ProgramNilai.py`](ProgramNilai.py).
 ```python
 # List untuk menyimpan data mahasiswa
 students = []
